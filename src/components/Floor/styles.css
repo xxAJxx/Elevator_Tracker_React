@@ -1,0 +1,9 @@
+.FloorContainer {
+  height: 100px;
+  width: 80px;
+  border: 1px solid lightseagreen;
+}
+
+span {
+  color: white;
+}

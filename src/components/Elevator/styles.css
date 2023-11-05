@@ -1,0 +1,34 @@
+.left {
+}
+
+.right {
+}
+
+.gate {
+  border: 1px solid white;
+  height: 80px;
+  width: 30px;
+  background-color: grey;
+}
+
+.elev {
+  position: absolute;
+  top: 220px;
+  transition: all 2s ease;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 80px;
+}
+
+.open {
+  justify-content: space-between;
+  background-color: yellow;
+}
+
+.open > div {
+  width: 10px;
+}

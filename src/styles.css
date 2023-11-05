@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+
+.elevatorContainer {
+  margin: 20vh auto;
+  border: 1px solid lightcyan;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 40px;
+}
